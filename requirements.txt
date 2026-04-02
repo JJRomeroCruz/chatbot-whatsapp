@@ -1,0 +1,23 @@
+attrs @ file:///home/task_177495961657718/croot/attrs_1774959646554/work
+brotlicffi @ file:///home/task_176496126216915/conda-bld/brotlicffi_1764961310969/work
+certifi @ file:///home/task_176765898832781/croot/certifi_1767659141017/work/certifi
+cffi @ file:///home/task_176183215235376/conda-bld/cffi_1761832773734/work
+h11 @ file:///home/task_176193127070316/conda-bld/h11_1761931282547/work
+idna @ file:///home/task_176191178300919/conda-bld/idna_1761911982343/work
+mkl-service==2.5.2
+mkl_fft @ file:///home/task_176159258761192/conda-bld/mkl_fft_1761592901799/work
+mkl_random @ file:///home/task_176159293348456/conda-bld/mkl_random_1761592947335/work
+numpy @ file:///home/task_177399618609632/croot/numpy_and_numpy_base_1773996223785/work/dist/numpy-2.4.3-cp311-cp311-linux_x86_64.whl#sha256=a84cade952258562f4e764aa07b08c2e01b4209a30ee20c9db5a825cf1c34e97
+outcome @ file:///croot/outcome_1741014030079/work
+packaging==26.0
+pycparser @ file:///home/task_177495969596206/croot/pycparser_1774959719046/work
+PySocks @ file:///home/task_176175228059944/conda-bld/pysocks_1761753009523/work
+selenium @ file:///home/task_176244510121819/conda-bld/selenium_1762445199196/work
+sniffio @ file:///home/task_176432916829870/conda-bld/sniffio_1764329180133/work
+sortedcontainers @ file:///tmp/build/80754af9/sortedcontainers_1623949099177/work
+trio @ file:///home/task_176242198031448/conda-bld/trio_1762422068987/work
+trio-websocket @ file:///home/task_176709310706246/croot/trio-websocket_1767093327656/work
+typing_extensions @ file:///croot/typing_extensions_1756280817316/work
+urllib3 @ file:///home/task_176781010927466/croot/urllib3_1767810311566/work
+websocket-client @ file:///croot/websocket-client_1715878298792/work
+wsproto @ file:///home/task_176371849391280/conda-bld/wsproto_1763718509094/work
