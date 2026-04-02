@@ -3,7 +3,7 @@ import random
 from datetime import datetime
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.weebdriver.common.keys import Keys
+from selenium.webdriver.common.keys import Keys
 from config import GROUP_NAME, USERS, MIN_NUMBER, MAX_NUMBER
 
 def generar_mensaje():
@@ -30,7 +30,7 @@ def buscar_grupo(driver):
     search_box = driver.find_element(By.XPATH, '//div[@contenteditable="true"][@data-tab="3"]')
     search_box.click()
     time.sleep(1)
-    search_box.send_keays(GROUP_NAME)
+    search_box.send_keys(GROUP_NAME)
     time.sleep(2)
 
 def enviar_mensaje(driver, mensaje):

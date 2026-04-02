@@ -1,15 +1,18 @@
-GROUP_NAME = "TALENTOSOS"
+GROUP_NAME = "Imperio Nabo 42🥵🥵👌🏻👌🏻"
 
 USERS = [
     "Julio",
     "Edu",
     "Verdín",
     "Bal tosar",
-    "Carlos", 
+    "Carlos Honorio", 
     "Pablo",
-    "Luis",
+    "Luis Piso",
     "Cuoc",
     "Juano",
+    "Beni",
+    "Currito"
+    "Concha"
 ]
 
 MIN_NUMBER = 0
